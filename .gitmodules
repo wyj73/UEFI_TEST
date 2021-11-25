@@ -1,0 +1,4 @@
+[submodule "sub1"]
+	path = sub1
+	url = git@github.com:wyj73/sub1.git
+	branch = master
